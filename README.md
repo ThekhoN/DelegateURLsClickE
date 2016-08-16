@@ -50,4 +50,11 @@ Came across this, while promoting one of our htmls on an app.
     return public;
 })();
 
+var DelegateURLsClickE_options = [
+    ['linkX_1', 'https://www.snapdeal.com/product/samsung-galaxy-j2-pro-16gb/686534480658?MID_Mobiles_SamsungJ2PRO=', false],
+    ['linkX_2', 'https://www.snapdeal.com/offers/kitchen-essentials'],
+    ['linkX_3', 'https://www.snapdeal.com']
+];
+DelegateURLsClickE.run(DelegateURLsClickE_options);
+
   ```
